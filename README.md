@@ -1,7 +1,7 @@
 # Data Analytics Case Study
 
 ## Introduction
-This case study aims to analyze and evaluate the progress and performance of Mohamed Salah, the Liverpool forward and Egyptian national team player, over the past seven seasons (Aug 12, 2017 – Jun 10, 2024) since his arrival at Liverpool. The study will also track Salah's market value during this period and visualize trends in key performance indicators (KPIs) such as goals, assists, and other relevant metrics.
+This case study aims to analyze and evaluate the progress and performance of [Mohamed Salah](https://en.wikipedia.org/wiki/Mohamed_Salah), the Liverpool forward and Egyptian national team player, over the past seven seasons (Aug 12, 2017 – Jun 10, 2024) since his arrival at Liverpool. The study will also track Salah's market value during this period and visualize trends in key performance indicators (KPIs) such as goals, assists, and other relevant metrics.
 During this time, Salah has played a total of 392 matches, including 347 for Liverpool and 45 for Egypt, across various competitions.
 
 ## Key Insights
@@ -34,7 +34,7 @@ During this time, Salah has played a total of 392 matches, including 347 for Liv
 - **Case study Report**: All data transformations, analytics, and performance metrics, along with key insights from data visualizations, have been documented [here](https://drive.google.com/file/d/1XG-LezIevltGrSttxbN3XhA8ae0Myi71/view?usp=sharing).
 - **Collected Data**: All datasets used in this case study are sourced from FBRef and Transfermarkt, which serve as the primary data sources. They can be found [here](https://drive.google.com/drive/folders/1BhLCoYXnnhNw1WSgjwCFVIvDUwF9Q2up?usp=sharing).
 - **Source**: The main dataset is derived from FBRef ([FBRef Player Stats](https://fbref.com)), while the market value dataset is derived from Transfermarkt ([Transfermarkt Player Stats](https://www.transfermarkt.com/)).
-- **Tools**: Data was reviewed from various resources, collected, and saved in Google Sheets. Data analytics transformations and visualizations were performed using Python as the programming language.
+- **Tools**: Data was reviewed from various resources, collected, and saved in Google Sheets. Data analytics transformations and visualizations were performed using [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) as the programming language.
 - **Data points**: Gls (goals), Ast (Assists), Min (Minutes played), Sh (shots), SoT (Shots on Target), xG (Expected goals), and other data points.
 - **Relevant Links**:
     - [FBRef Mohamed Salah 2017-2018 Match Logs (Summary)](https://fbref.com/en/players/e342ad68/matchlogs/2017-2018/Mohamed-Salah-Match-Logs)

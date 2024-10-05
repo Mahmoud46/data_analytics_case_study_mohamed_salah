@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This case study aims to analyze and evaluate the progress and performance of [Mohamed Salah](https://en.wikipedia.org/wiki/Mohamed_Salah), the Liverpool forward and Egyptian national team player, over the past seven seasons (Aug 12, 2017 – Jun 10, 2024) since his arrival at Liverpool. The study will also track Salah's market value during this period and visualize trends in key performance indicators (KPIs) such as goals, assists, and other relevant metrics.
+This case study aims to analyze and evaluate the progress and performance of [Mohamed Salah](https://en.wikipedia.org/wiki/Mohamed_Salah), the Liverpool forward and Egyptian national team player, over the past seven seasons **(Aug 12, 2017 – Jun 10, 2024)** since his arrival at Liverpool. The study will also track Salah's market value during this period and visualize trends in key performance indicators (KPIs) such as goals, assists, and other relevant metrics.
 During this time, Salah has played a total of 392 matches, including 347 for Liverpool and 45 for Egypt, across various competitions.
 
 ## Key Insights

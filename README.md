@@ -33,7 +33,7 @@ During this time, Salah has played a total of 392 matches, including 347 for Liv
   - Salah is expected to have a strong season with both Egypt and Liverpool, especially considering his age. His impressive statistics and maintained physical condition suggest that he is well-prepared for the challenges of the new season.
 
 ## Data and Report
-- **Case study Dashboard**: All data transformations, analytics, and performance metrics, along with key insights from data visualizations, have been visualized [here]( https://mahmoud46.github.io/case-study-dashboard-mohamed-salah/)
+- **Case study Dashboard**: All data transformations, analytics, and performance metrics, along with key insights from data visualizations, have been visualized [here]( https://mahmoud46.github.io/case-study-dashboard-mohamed-salah/).
 - **Case study Report**: All data transformations, analytics, and performance metrics, along with key insights from data visualizations, have been documented [here](https://drive.google.com/file/d/1MdsLPzDdCXXY3hOC8hLIk9eyUKPuU3VZ/view?usp=sharing).
 - **Collected Data**: All datasets used in this case study are sourced from FBRef and Transfermarkt, which serve as the primary data sources. They can be found [here](https://drive.google.com/drive/folders/1BhLCoYXnnhNw1WSgjwCFVIvDUwF9Q2up?usp=sharing).
 - **Source**: The main dataset is derived from FBRef ([FBRef Player Stats](https://fbref.com)), while the market value dataset is derived from Transfermarkt ([Transfermarkt Player Stats](https://www.transfermarkt.com/)).

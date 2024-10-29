@@ -50,3 +50,4 @@ During this time, Salah has played a total of 392 matches, including 347 for Liv
   - [FBRef Mohamed Salah Goals Logs](https://fbref.com/en/players/e342ad68/goallogs/all_comps/Mohamed-Salah-Goal-Log)
   - [FBRef Mohamed Salah Assists Logs](https://fbref.com/en/players/e342ad68/goallogs/all_comps/Mohamed-Salah-Goal-Log)
   - [Transfermarkt Mohamed Salah Market Value](https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455)
+  - [FIFA Performance Stats](https://www.fifaratings.com/mohamed-salah)
